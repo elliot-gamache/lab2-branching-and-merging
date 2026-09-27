@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ae8d320-5ad6-462a-bb79-ca2b07ec9580" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN"
+    }
+  ],
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/elliot-gamache/lab2-branching-and-merging.git&quot;,
+    &quot;accountId&quot;: &quot;5eddbfc0-db2c-47b8-b143-6bd729eee2cc&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0505519041757425" />
+      <entry key="MS500" value="1.9359197546223388" />
+      <entry key="S2" value="3.2783712621074446" />
+      <entry key="S5" value="7.37516808761982" />
+      <entry key="S10" value="12.4287648587231" />
+      <entry key="S30" value="19.189064267967904" />
+      <entry key="S60" value="24.377778996736843" />
+      <entry key="M2" value="37.68095309871304" />
+      <entry key="M5" value="78.49513039733725" />
+      <entry key="M10" value="138.83723975884743" />
+      <entry key="M15" value="188.43863724143546" />
+      <entry key="M30" value="281.75544040803527" />
+      <entry key="H1" value="359.98995881057976" />
+      <entry key="H2" value="411.81690388673104" />
+      <entry key="H4" value="441.82306680540165" />
+      <entry key="D1" value="469.2344989420336" />
+      <entry key="W1" value="474.17035782231835" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="7.81379671076691E-250" />
+      <entry key="S2" value="5.287075680301969E-63" />
+      <entry key="S5" value="1.2282484105965887E-25" />
+      <entry key="S10" value="3.5046375142039785E-13" />
+      <entry key="S30" value="7.05040992482818E-5" />
+      <entry key="S60" value="0.008396671915007857" />
+      <entry key="M2" value="0.09163335590824909" />
+      <entry key="M5" value="0.3844336870011223" />
+      <entry key="M10" value="0.6200271663412193" />
+      <entry key="M15" value="0.7271217666778055" />
+      <entry key="M30" value="0.8527143523348292" />
+      <entry key="H1" value="0.9234253366324909" />
+      <entry key="H2" value="0.9609502258871115" />
+      <entry key="H4" value="0.9802806872968114" />
+      <entry key="D1" value="0.9966861142940437" />
+      <entry key="W1" value="0.9995259140162531" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0076749517029095" />
+      <entry key="MS500" value="1.919313292186723" />
+      <entry key="S2" value="3.270115739430702" />
+      <entry key="S5" value="7.363099976675343" />
+      <entry key="S10" value="12.416503103798732" />
+      <entry key="S30" value="19.18205418991103" />
+      <entry key="S60" value="24.38062556413272" />
+      <entry key="M2" value="37.76553617694378" />
+      <entry key="M5" value="78.86998123817864" />
+      <entry key="M10" value="139.4482966526445" />
+      <entry key="M15" value="189.1579301079024" />
+      <entry key="M30" value="282.60272448817824" />
+      <entry key="H1" value="360.91008630804504" />
+      <entry key="H2" value="412.776019336238" />
+      <entry key="H4" value="442.8023772178591" />
+      <entry key="D1" value="470.2310153712085" />
+      <entry key="W1" value="475.16985929155067" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JePy0vqIJkAk8geaxv6jt7fLdH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "git.auto.fetch.suggestion.counter": "2",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ae8d320-5ad6-462a-bb79-ca2b07ec9580" name="Changes" comment="" />
+      <created>1790018814012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790018814012</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testing to make sure I'm working on the correct code" />
+    <MESSAGE value="first part of task 1" />
+    <MESSAGE value="second part of task 1" />
+    <MESSAGE value="Merge branch 'alice'&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit.&#10;merge alice into main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'alice'&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit.&#10;merge alice into main" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
